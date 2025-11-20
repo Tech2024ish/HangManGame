@@ -3,9 +3,6 @@
 
 # Hangman Game Implementation
 
-**Author:** ISHIMWE Jean Claude
-**Registration Number:** 224010238
-
 ## Description
 
 This is an implementation of the classic Hangman game in Python. The game randomly selects a word from a word list and allows the player to guess it one letter at a time.
